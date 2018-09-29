@@ -1,4 +1,4 @@
-# dancing-circles
+# Dancing Circles
 website URL : https://chem-e.github.io/dancing-circles/
 
 # Using Languages
